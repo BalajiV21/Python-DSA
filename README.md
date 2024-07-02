@@ -6,4 +6,4 @@ double linked list
 circular linked list 
 
 Search Algorithm
-
+binary search 
