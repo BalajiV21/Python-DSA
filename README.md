@@ -8,3 +8,6 @@ circular linked list
 Search Algorithm
 binary searche
 linear search 
+
+sort 
+insert sort
