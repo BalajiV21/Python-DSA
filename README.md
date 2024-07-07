@@ -11,3 +11,4 @@ linear search
 
 sort 
 insert sort
+merge sort
