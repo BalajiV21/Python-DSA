@@ -11,5 +11,5 @@ linear search
 
 sort 
 insert sort
-merge sort
+merge sort,
 quick sort,
