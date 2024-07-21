@@ -9,7 +9,7 @@ Search Algorithm
 binary searche
 linear search 
 
-sort 
+Sort
 insert sort
 merge sort,
 quick sort,
