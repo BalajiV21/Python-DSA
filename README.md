@@ -7,7 +7,7 @@ double linked list
 circular linked list 
 
 Search Algorithm
-binary searche
+binary search,
 linear search 
 
 Sort
