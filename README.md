@@ -1,7 +1,7 @@
 # Python-DSA
 Advanced Data Structures and Algorithms in Python ( DSA )
 
-List
+1.List
 Linked list 
 double linked list 
 circular linked list 
