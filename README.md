@@ -14,3 +14,4 @@ Sort
 insert sort
 merge sort,
 quick sort,
+BUBBLE SORT
